@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "GALAXY HidE and SeeK",
+  "base_artist": "AZALEA",
+  "createdAt": "2025-12-14T07:47:16.660695Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "GALAXY HidE and SeeK",
+      "artist": "AZALEA",
+      "has_synced": true,
+      "path": "select/01_GALAXY_HidE_and_SeeK_AZALEA.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "GALAXY HidE and SeeK",
+      "artist": "AZALEA",
+      "has_synced": true,
+      "path": "select/02_GALAXY_HidE_and_SeeK_AZALEA.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "galaxy hide and seek",
+      "artist": "azalea",
+      "has_synced": true,
+      "path": "select/03_galaxy_hide_and_seek_azalea.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "GALAXY HidE and SeeK (Off Vocal)",
+      "artist": "AZALEA",
+      "has_synced": true,
+      "path": "select/04_GALAXY_HidE_and_SeeK_(Off_Vocal)_AZALEA.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "GALAXY HidE and SeeK (Off Vocal)",
+      "artist": "AZALEA",
+      "has_synced": true,
+      "path": "select/05_GALAXY_HidE_and_SeeK_(Off_Vocal)_AZALEA.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "GALAXY HidE and SeeK",
+      "artist": "AZALEA",
+      "has_synced": false,
+      "path": "select/pl_01_GALAXY_HidE_and_SeeK_AZALEA.txt"
+    }
+  ]
+}
